@@ -6,6 +6,6 @@ Originally from a creative background, but love to dwell in the intersection of 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarina" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarina&theme=gruvbox" />
   </a>
 </div>
