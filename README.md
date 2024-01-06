@@ -6,12 +6,12 @@ Originally from a creative background, but love to dwell in the intersection of 
 ## 🚀 About Me
 I'm a current Full Stack Web Develpment student at Code Institute. My a background in Animation and a keen interest in the intricacies of software development, I find joy in bridging the gap between technology and creativity.
 
-🎨 **Creative Roots:** Graduated from the National Film School of Ireland, with a flair for 3D animation and production.
 
 💻 **Tech Transition:** Transitioned to tech, bringing a unique perspective to web development field.
 
 🎯 **Career Goal:** Eager to join an innovative startup as a key contributor, aiming to bring value and positive impact to society.
 
+🎨 **Creative Roots:** Graduated from the National Film School of Ireland, with a flair for 3D animation and production.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +26,33 @@ I'm a current Full Stack Web Develpment student at Code Institute. My a backgrou
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarina&theme=gruvbox" />
   </a>
 </div>
+
+
+## 💼 My Projects
+
+### Project 1: Small Bag Travel
+**Description:** Small Bag Travel is a static responsive website designed for travelers who prefer to travel light. This project showcases a responsive design suitable for various devices, an intuitive user interface.
+
+**Technologies Used:** HTML, CSS
+
+**GitHub Link:** [Small Bag Travel](https://github.com/oarina/small-bag-travel)
+
+
+### Project 2: Mortgage Calculator
+**Description:** Amortization formula web based calculator tool designed to help users quickly estimate their mortgage payments. This project emphasizes clean and efficient coding practices, with a strong focus on responsive design while giving user the opportunity to choose fro 0 to 20% interest rate on the mortgagte for a very concerned user.a
+
+**Technologies Used:** JavaScript, HTML, CSS 
+
+**GitHub Link:** [Mortgage Calculator](https://github.com/oarina/mortgage-calculator/blob/main/REDME.md)
+
+
+### Project 3: BTC-USD Backtesting
+**Description:** BTC-USD Backtesting is a CLI Python tool that receives the entry, exit, trade amount and a flat fee percentage from the user and based on a 15 minute candle historical data calculates the results of a trade. It enables strategy testing based on hsitorical data.
+
+**Technologies Used:** Python, Google API, Alpaca Crypto API
+
+**GitHub Link:** [BTC-USD Backtesting](https://github.com/oarina/btc-usd-backtesting)
+
 
 
 ## 🌱  What I'm curretnly learning
