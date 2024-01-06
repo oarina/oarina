@@ -4,6 +4,8 @@ Fascinated by intricate systems that the best and the brightest minds create for
 
 Originally from a creative background, but love to dwell in the intersection of technical and creative. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foodyfood&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarina)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarina" />
+  </a>
+</div>
