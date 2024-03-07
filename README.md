@@ -4,8 +4,7 @@ I am fascinated by intricate systems that the best and the brightest minds creat
 Originally from a creative background, but love to dwell in the intersection of technical and creative.
 
 ## 🚀 About Me
-I'm a current Full Stack Web Develpment student at Code Institute. My a background in Animation and a keen interest in the intricacies of software development, I find joy in bridging the gap between technology and creativity.
-
+I'm a part-time Full Stack Web Develpment student at Code Institute. I have interest in new technologies like web3, crypto and VR. 
 
 💻 **Tech Transition:** Transitioned to tech, bringing a unique perspective to web development field.
 
