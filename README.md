@@ -8,7 +8,7 @@ I'm a part-time Full Stack Web Develpment student at Code Institute. I have inte
 
 💻 **Tech Transition:** Transitioned to tech, bringing a unique perspective to web development field.
 
-🎯 **Career Goal:** Eager to join an innovative startup as a key contributor, aiming to bring value and positive impact to society.
+🎯 **Career Goal:** Eager to join an innovative startup as a key contributor, aiming to bring value and positively impact to society.
 
 🎨 **Creative Roots:** Graduated from the National Film School of Ireland, with a flair for 3D animation and production.
 
