@@ -66,7 +66,7 @@ I thrive where creativity meets complex systems. After graduating with honours i
 ---
 
 ## 🌟 Professional Background
-Five years in tech operations—support analysis, incident response and bug triage—most notably at **Coinbase** (700 + incidents managed, SLA ≤ 5 min) and, via consulting engagements, for a **global social-media platform** and a **leading VR company**. I bridge product, engineering and customer teams to keep systems running and users informed.
+Five years in tech operations spanning support analysis, incident response, and cross-functional triage—most notably at **Coinbase**, where I managed 700+ platform incidents with an SLA under 5 minutes. I’ve also supported global operations at a **major social media platform and a leading VR company**, acting as a bridge between product, engineering, and customer teams to keep systems stable and users informed.
 
 ---
 
