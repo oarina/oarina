@@ -41,9 +41,9 @@ I thrive where creativity meets complex systems. After graduating with honours i
 
 | Year | Project | Stack | Brief |
 |------|---------|-------|-------|
-| **2023** | **Small Bag Travel** | HTML & CSS | Responsive microsite for ultralight travellers. |
-| **2023** | **Mortgage Calculator** | JavaScript, HTML, CSS | Web tool that estimates mortgage payments (0–20 % interest). |
-| **2024** | **BTC-USD Back-testing** | Python, Alpaca API, Google Sheets API | CLI script that back-tests BTC trades on 15-min candles. |
+| **2022** | **Small Bag Travel** | HTML & CSS | Responsive microsite for ultralight travellers. |
+| **2022** | **Mortgage Calculator** | JavaScript, HTML, CSS | Web tool that estimates mortgage payments (0–20 % interest). |
+| **2023** | **BTC-USD Back-testing** | Python, Alpaca API, Google Sheets API | CLI script that back-tests BTC trades on 15-min candles. |
 
 > _More in the pinned repos section._
 
@@ -59,6 +59,7 @@ I thrive where creativity meets complex systems. After graduating with honours i
 ---
 
 ## 🪄 Learning Pipeline
+![AI](https://img.shields.io/badge/AI_Concepts-Basic_Building-3c1361?style=for-the-badge&logo=openai&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
