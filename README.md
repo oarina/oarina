@@ -7,7 +7,7 @@ Originally trained in animation and production, I pivoted into tech operations (
 
 ## 🚀 About Me
 
-I thrive where creativity meets complex systems. After graduating with honours in **traditional animation** (plus a year in 3-D) from the National Film School of Ireland, I pivoted into tech operations—triaging hundreds of incidents at **a major crypto exchange** and supporting enterprise clients for a **global social-media platform** (via a consulting partner). Along the way I’ve built simple internal tools (e.g. a 300-term glossary that cut on-call lookup from 15 min to 3 s) and written the odd script—such as a small Python back-tester that hit the Alpaca API—but my core value lies in keeping large-scale products reliable and users informed.
+I thrive where creativity meets complex systems. After graduating with honours in **traditional animation** (plus a year in 3-D) from the National Film School of Ireland, I pivoted into tech operations—triaging incidents at **a crypto exchange** and supporting enterprise clients for a **global social-media platform** (via a partner). Along the way I’ve built simple internal tools (e.g. a 300-term glossary that cut on-call lookup from 15 min to 3 seconds and written the odd script—such as a small Python back-tester that hit the Alpaca API—but my core value lies in keeping products reliable and users informed.
 
 **What drives me**  
 - Breaking down how products work and spotting weak points  
@@ -66,7 +66,7 @@ I thrive where creativity meets complex systems. After graduating with honours i
 ---
 
 ## 🌟 Professional Background
-Five years in tech operations spanning support analysis, incident response, and cross-functional triage—most notably at **Coinbase**, where I managed 700+ platform incidents with an SLA under 5 minutes. I’ve also supported global operations at a **major social media platform and a leading VR company**, acting as a bridge between product, engineering, and customer teams to keep systems stable and users informed.
+Five years in tech ops, focused on incident response, executive support, and process design. At a **crypto exchange**,  I helped scale CX incident workflows from zero—eventually supporting over 700 incidents across outages, feature failures, and blockchain-related disruptions. At a **global social media** (via a partner), I resolved high-priority ad issues for VIP clients. More recently, I’ve handled VR bug triage, built internal tools, and launched documentation systems that made response time faster and teams more coordinated.
 
 ---
 
