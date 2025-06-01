@@ -7,7 +7,7 @@ Originally trained in animation and production, I pivoted into tech operations (
 
 ## 🚀 About Me
 
-I thrive where creativity meets complex systems. After graduating with honours in **traditional animation** (plus a year in 3-D) from the National Film School of Ireland, I pivoted into tech operations—triaging hundreds of incidents at **Coinbase** and supporting enterprise clients for a **global social-media platform** (via a consulting partner). Along the way I’ve built simple internal tools (e.g. a 300-term glossary that cut on-call lookup from 15 min to 3 s) and written the odd script—such as a small Python back-tester that hit the Alpaca API—but my core value lies in keeping large-scale products reliable and users informed.
+I thrive where creativity meets complex systems. After graduating with honours in **traditional animation** (plus a year in 3-D) from the National Film School of Ireland, I pivoted into tech operations—triaging hundreds of incidents at **a major crypto exchange** and supporting enterprise clients for a **global social-media platform** (via a consulting partner). Along the way I’ve built simple internal tools (e.g. a 300-term glossary that cut on-call lookup from 15 min to 3 s) and written the odd script—such as a small Python back-tester that hit the Alpaca API—but my core value lies in keeping large-scale products reliable and users informed.
 
 **What drives me**  
 - Breaking down how products work and spotting weak points  
